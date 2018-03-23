@@ -9,6 +9,8 @@ And Here's the [third draft](https://gd399-ether.herokuapp.com/p/Open_Source_Des
 
 The [fourth draft](https://gd399-ether.herokuapp.com/p/Open_Source_Design_Article_Draft_4)!
 
-I'm refining the intent based on Chris's edits, seeking to focus on Open Source Design as an "alternative approach to making/collaborating." To do this, I want to place Open Source design within a history starting and then move into what open source design looks like. 
+[Final draft](https://docs.google.com/document/d/1xMKD0UcZj5hGi4h6jldzCj0ZPjLfZ08-C6cHaaHCgSc/edit?usp=sharing) <--- sorry this is a google drive link :( heroku was down. 
+
+Now I'm looking for help with illustrations! Please download the SVG files I've added to the repository. Modify them, iterate, expand! I'd like to compile people's interpretations into one illustration that embodies the historied and networked qualities of Open Source. 
 
 
